@@ -40,28 +40,32 @@ This repo fills the gap by:
 
 ## Getting Started  
 
-1.Clone the repository:  
+1. Clone the repository:   
 
-git clone https://github.com/Muthumaha-S/Python_Series.git.
-cd Python_Series.
+        git clone https://github.com/Muthumaha-S/Python_Series.git.   
+        cd Python_Series.
 
-2. Install Python (if not already installed)
-Check version:
-python --version
+2. Install Python (if not already installed)    
+     Check version:
+   
+        python --version
 
-3. Install Jupyter Notebook
- pip install notebook
+4. Install Jupyter Notebook
+         
+       pip install notebook
 
-4. Launch Jupyter Notebook
-From inside the repo folder, run:
-  jupyter notebook
-This will open a browser window.
+5. Launch Jupyter Notebook   
+   From inside the repo folder, run:
 
-5. Open a Notebook
+        jupyter notebook
+   
+    This will open a browser window.
+
+7. Open a Notebook
   Click on 01_basics.ipynb to start with Python fundamentals.
   Then open 02_DSA.ipynb for Data Structures and Algorithms.
 
-6. Run the Code
+8. Run the Code
   Select a cell and press Shift + Enter to execute it.
   Work through each problem step by step.
   Modify the code and experiment for better hands-on learning.
