@@ -21,7 +21,7 @@ This repo fills the gap by:
 - Control Flow → *Festival discounts*  
 - Loops → *Survey data (even/odd classification)*  
 - Functions → *Reusable problem-solving functions* 
--(More : Files,Exception handling,Oops) 
+- (More : Files,Exception handling,Oops) 
 
 ### [02_DSA.ipynb](02_DSA.ipynb)  
 - Arrays → *Supermarket inventory management*  
@@ -42,8 +42,8 @@ This repo fills the gap by:
 
 1.Clone the repository:  
 
-  git clone https://github.com/Muthumaha-S/Python_Series.git
-  cd Python_Series
+  git clone https://github.com/Muthumaha-S/Python_Series.git.
+  cd Python_Series.
 
 2. Install Python (if not already installed)
  Check version:
